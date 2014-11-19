@@ -1,0 +1,233 @@
+.sprite {
+    background-image: url(spritesheet.png);
+    background-repeat: no-repeat;
+    display: block;
+}
+
+.sprite-arrow {
+    width: 11px;
+    height: 7px;
+    background-position: -15px -15px;
+}
+
+.sprite-close {
+    width: 16px;
+    height: 16px;
+    background-position: -56px -15px;
+}
+
+.sprite-daw {
+    width: 14px;
+    height: 12px;
+    background-position: -102px -15px;
+}
+
+.sprite-fb {
+    width: 22px;
+    height: 22px;
+    background-position: -146px -15px;
+}
+
+.sprite-gg {
+    width: 22px;
+    height: 27px;
+    background-position: -198px -15px;
+}
+
+.sprite-gliph-white {
+    width: 25px;
+    height: 32px;
+    background-position: -250px -15px;
+}
+
+.sprite-gliph0-white {
+    width: 32px;
+    height: 32px;
+    background-position: -15px -77px;
+}
+
+.sprite-gliph1 {
+    width: 30px;
+    height: 17px;
+    background-position: -77px -77px;
+}
+
+.sprite-gliph1-white {
+    width: 30px;
+    height: 17px;
+    background-position: -137px -77px;
+}
+
+.sprite-gliph10 {
+    width: 24px;
+    height: 24px;
+    background-position: -197px -77px;
+}
+
+.sprite-gliph10-white {
+    width: 24px;
+    height: 24px;
+    background-position: -251px -77px;
+}
+
+.sprite-gliph11 {
+    width: 22px;
+    height: 22px;
+    background-position: -77px -131px;
+}
+
+.sprite-gliph11-white {
+    width: 22px;
+    height: 22px;
+    background-position: -129px -131px;
+}
+
+.sprite-gliph12 {
+    width: 21px;
+    height: 24px;
+    background-position: -181px -131px;
+}
+
+.sprite-gliph12-white {
+    width: 21px;
+    height: 24px;
+    background-position: -232px -131px;
+}
+
+.sprite-gliph13 {
+    width: 22px;
+    height: 24px;
+    background-position: -283px -131px;
+}
+
+.sprite-gliph13-white {
+    width: 22px;
+    height: 24px;
+    background-position: -15px -185px;
+}
+
+.sprite-gliph2 {
+    width: 25px;
+    height: 21px;
+    background-position: -67px -185px;
+}
+
+.sprite-gliph2-white {
+    width: 25px;
+    height: 21px;
+    background-position: -122px -185px;
+}
+
+.sprite-gliph3 {
+    width: 25px;
+    height: 21px;
+    background-position: -177px -185px;
+}
+
+.sprite-gliph3-white {
+    width: 25px;
+    height: 21px;
+    background-position: -232px -185px;
+}
+
+.sprite-gliph4 {
+    width: 18px;
+    height: 25px;
+    background-position: -287px -185px;
+}
+
+.sprite-gliph4-white {
+    width: 18px;
+    height: 25px;
+    background-position: -15px -240px;
+}
+
+.sprite-gliph5 {
+    width: 23px;
+    height: 22px;
+    background-position: -63px -240px;
+}
+
+.sprite-gliph5-white {
+    width: 23px;
+    height: 22px;
+    background-position: -116px -240px;
+}
+
+.sprite-gliph6 {
+    width: 20px;
+    height: 21px;
+    background-position: -169px -240px;
+}
+
+.sprite-gliph6-white {
+    width: 20px;
+    height: 21px;
+    background-position: -219px -240px;
+}
+
+.sprite-gliph7 {
+    width: 21px;
+    height: 18px;
+    background-position: -269px -240px;
+}
+
+.sprite-gliph7-white {
+    width: 21px;
+    height: 18px;
+    background-position: -269px -288px;
+}
+
+.sprite-gliph8 {
+    width: 20px;
+    height: 19px;
+    background-position: -305px -15px;
+}
+
+.sprite-gliph8-white {
+    width: 20px;
+    height: 19px;
+    background-position: -305px -64px;
+}
+
+.sprite-gliph9 {
+    width: 21px;
+    height: 20px;
+    background-position: -335px -113px;
+}
+
+.sprite-gliph9-white {
+    width: 21px;
+    height: 20px;
+    background-position: -335px -163px;
+}
+
+.sprite-mob-icon1 {
+    width: 33px;
+    height: 26px;
+    background-position: -320px -240px;
+}
+
+.sprite-mob-icon2 {
+    width: 21px;
+    height: 27px;
+    background-position: -15px -296px;
+}
+
+.sprite-mob-icon3 {
+    width: 28px;
+    height: 22px;
+    background-position: -66px -296px;
+}
+
+.sprite-smile {
+    width: 50px;
+    height: 50px;
+    background-position: -355px -15px;
+}
+
+.sprite-tw {
+    width: 22px;
+    height: 22px;
+    background-position: -386px -95px;
+}
